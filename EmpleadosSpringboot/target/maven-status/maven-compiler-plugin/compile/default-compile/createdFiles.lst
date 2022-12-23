@@ -1,6 +1,0 @@
-com\app\web\servicio\EmpleadoServicioImpl.class
-com\app\web\repositorio\EmpleadoRepositorio.class
-com\app\web\CrudSpringBootApplication.class
-com\app\web\entidad\empleado.class
-com\app\web\servicio\EmpleadoServicio.class
-com\app\web\Controlador\EmpleadoControlador.class
